@@ -27,7 +27,7 @@ We can make certain assumption about Precipitation based off the above image
 
 An easier way to view this data is by the graph seen below.
 
-![alt text]( https://github.com/quorinne/surfs_up/blob/main/Resources/Precipitation.png?raw=true)
+![alt text]( https://github.com/quorinne/surfs_up/blob/main/Resources/precipitation.png?raw=true)
 
 
 # Summary
